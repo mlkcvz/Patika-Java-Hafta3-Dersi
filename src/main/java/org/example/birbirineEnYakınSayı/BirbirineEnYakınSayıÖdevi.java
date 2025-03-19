@@ -51,3 +51,11 @@ public class BirbirineEnYakınSayıÖdevi
 
     }
 }
+//Adımlar:
+//ArrayList Oluşturuluyor: 10 benzersiz ve pozitif sayıyı listeye ekliyoruz.
+//Sıralama: Collections.sort(sayilar) kullanarak sayıları küçükten büyüğe sıralıyoruz.
+//Farkları Hesaplama: Sıralı listeyi kontrol ederek ardışık elemanlar arasındaki farkları hesaplıyoruz.
+//En Küçük Farkı Bulma: En küçük farkı bulan iki sayıyı kaydediyoruz ve sonunda ekrana yazdırıyoruz.
+//Özet:
+//Listeyi sıralayıp ardışık elemanlar arasındaki farkları kontrol ediyoruz.
+//En küçük farkı bulduğumuzda, bu farkı oluşturan iki sayıyı belirleyip yazdırıyoruz.
