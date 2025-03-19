@@ -25,7 +25,7 @@ public class BirbirineEnYakınSayıÖdevi
         for(int sayı : arrayListem)
         {
             System.out.println(sayı);
-            if()
+
 
         }
 
