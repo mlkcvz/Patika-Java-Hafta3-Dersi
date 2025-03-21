@@ -22,7 +22,10 @@ public class FrekansBulmaÖdevi
             }
         }
 
-
+        // Harf frekanslarını yazdırıyoruz
+        for (Map.Entry<Character, Integer> entry : frekans.entrySet()) {
+            System.out.println(entry.getKey() + " = " + entry.getValue());
+        }
 
 
     }
